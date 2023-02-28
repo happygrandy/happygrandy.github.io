@@ -7,3 +7,4 @@ unused
 bootstrap-reference.html
 _site
 .jekyll-metadata
+.DS_Store
