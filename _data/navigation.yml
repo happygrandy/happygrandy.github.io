@@ -19,8 +19,10 @@ en: &DEFAULT_EN
     #   section: about
     # - title: "Timeline"
     #   section: timeline
-    # - title: "Team"
-    #   section: team
+    - title: "Team"
+      section: team
+    - title: "Waiting List"
+      section: waiting-list
     - title: "Partners"
       section: partners
     - title: "Contact"

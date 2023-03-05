@@ -1,0 +1,56 @@
+<!-- Contact -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="bg-light page-section" id="waiting-list">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          Interested?</h2>
+        <h3 class="section-subheading text-muted">By joining our waiting list, you'll be in the front row to get updates about our progress and we'll invite you as the first ones to test the HappyGrandy platform!</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <form id="waitingList"
+          action="https://docs.google.com/forms/d/e/1FAIpQLSdsjUKJ5u5qOwmJUd3dy5DPDw2K0cgISo2PEaS4JkNj0jCX5g/formResponse"
+          novalidate="novalidate" method="POST">
+          <!--name="sentMessage"-->
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <input name="entry.2005620554" class="form-control" id="name" type="text"
+                  placeholder="Name*"
+                  required="required" data-validation-required-message="Please enter your name.">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div class="form-group">
+                <input name="entry.1045781291" class="form-control" id="email" type="email"
+                  placeholder="Email*"
+                  required="required" data-validation-required-message="Please enter your email address.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <textarea name="entry.839337160" class="form-control" id="message" type="text"
+                  placeholder="Why are you excited about HappyGrandy?*"
+                  required="required" data-validation-required-message="Please tell us why you are excited about HappyGrandy."></textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-lg-12 text-center">
+              <div id="success"></div>
+              <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
+                type="submit">Join the waiting list</button>
+            </div>
+            <input type="text" name="_gotcha" style="display:none">
+            <input type="hidden" name="_next" value="#" />
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End Contact -->
