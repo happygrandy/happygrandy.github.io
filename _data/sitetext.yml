@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     text: <br>Happy Grandy
     title: The digital ecosystem for more connected elderly
-    button: Tell Me More
-    buttonlink: "#services"
+    button: Join the waiting list
+    buttonlink: "#waiting-list"
 
   services:
     title: "Concept"
