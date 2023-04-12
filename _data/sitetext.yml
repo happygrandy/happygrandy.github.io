@@ -43,34 +43,41 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Winner Business Concept Training"
+        year: "June 2022"
+        desc: "The idea of HappyGrandy was born during the [Business Concept Training](https://www.science2market.ch/) organized by Innosuisse in Neuchâtel, Switzerland. We went home with both the prize for the best team and the public prize!"
+        image: assets/img/timeline/202206_business_concept.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Winner Future of Health Grant"
+        year: "March 2023"
+        desc: "We got selected among the Level 1 winners of the [Future of Health Grant](http://future-of-health.org/), a collaboration between [EPFL Innovation Park](https://www.epfl-innovationpark.ch/) and [CSS](https://www.css.ch/en/private-customers.html)!"
+        image: assets/img/timeline/202303_future_of_health_grant.png
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+      - title: "Partnership with Microsoft for Startups"
+        year: "April 2023"
+        desc: "The 'Ideate' partnership with [Microsoft for Startups](https://www.microsoft.com/en-us/startups) will give us access to the latest cloud innovations, including recent chatbot technology!"
+        image: assets/img/timeline/202304_microsoft_azure_2.jpg
+      - title: "Pilot study 1"
+        year: "April 2023"
+        desc: "We validated the functionality and user experience of our first prototype with a small set of physiotherapists and patients."
+        image: assets/img/timeline/202304_pilot_study_1.jpg
+      - title: "Pilot study 2"
+        year: "Coming soon"
+        desc: "Based on the received feedback, we are working on a revised version of our prototype that will be tested on a larger population, using the help of the network of the Future of Health Grant."
+        image: assets/img/timeline/next_pilot_study_2.jpg
+      # - title: "Title"
+      #   year: "2009-2011"
+      #   desc: "Your description here, **Markdown** is fully supported."
+      #   image: assets/img/timeline/4.jpg
+      #   alt:
+      #   # you can enforce the alignment
+      #   align: right
+    # end: "More <br> to <br> come!"
 
   about:
     title: "About Us"
