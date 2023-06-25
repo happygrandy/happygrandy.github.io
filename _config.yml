@@ -42,3 +42,4 @@ formspree_form_path: "f/xzbqgbva"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-redirect-from
