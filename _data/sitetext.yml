@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Physiotherapists"
         desc: "In direct contact with elderly, providing more efficient access to a larger segment of the elderly population."
         icon: fas fa-medkit
-      - title: "AI coach"
+      - title: "Personal AI coach"
         desc: "Our AI-based solution tracks exercises done by elderly at home, gives feedback and stimulates self-encouragement."
         icon: fas fa-clipboard-list
       # - title: "Family members"
