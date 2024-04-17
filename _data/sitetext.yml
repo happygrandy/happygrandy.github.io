@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     text: <br>Happy Grandy
-    title: The digital ecosystem for more connected elderly
+    title: The digital ecosystem for more active elderly
     button: Join the waiting list
     buttonlink: "#waiting-list"
 
@@ -48,28 +48,33 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Winner Business Concept Training"
-        year: "June 2022"
-        desc: "The idea of HappyGrandy was born during the [Business Concept Training](https://www.science2market.ch/) organized by Innosuisse in Neuchâtel, Switzerland. We went home with both the prize for the best team and the public prize!"
-        image: assets/img/timeline/202206_business_concept.jpg
-        alt:
+      - title: "Pilot study 2"
+        year: "Coming soon"
+        desc: "Based on the received feedback, we are working on a revised version of our prototype that will be tested on a larger population, using the help of the network of the Future of Health Grant."
+        image: assets/img/timeline/next_pilot_study_2.jpg
+
+      - title: "Pilot study 1"
+        year: "April 2023"
+        desc: "We validated the functionality and user experience of our first prototype with a small set of physiotherapists and patients."
+        image: assets/img/timeline/202304_pilot_study_1.jpg
+
+      - title: "Partnership with Microsoft for Startups"
+        year: "April 2023"
+        desc: "The 'Ideate' partnership with [Microsoft for Startups](https://www.microsoft.com/en-us/startups) will give us access to the latest cloud innovations, including recent chatbot technology!"
+        image: assets/img/timeline/202304_microsoft_azure_2.jpg
+
       - title: "Winner Future of Health Grant"
         year: "March 2023"
         desc: "We got selected among the Level 1 winners of the [Future of Health Grant](http://future-of-health.org/), a collaboration between [EPFL Innovation Park](https://www.epfl-innovationpark.ch/) and [CSS](https://www.css.ch/en/private-customers.html)!"
         image: assets/img/timeline/202303_future_of_health_grant.png
         alt:
-      - title: "Partnership with Microsoft for Startups"
-        year: "April 2023"
-        desc: "The 'Ideate' partnership with [Microsoft for Startups](https://www.microsoft.com/en-us/startups) will give us access to the latest cloud innovations, including recent chatbot technology!"
-        image: assets/img/timeline/202304_microsoft_azure_2.jpg
-      - title: "Pilot study 1"
-        year: "April 2023"
-        desc: "We validated the functionality and user experience of our first prototype with a small set of physiotherapists and patients."
-        image: assets/img/timeline/202304_pilot_study_1.jpg
-      - title: "Pilot study 2"
-        year: "Coming soon"
-        desc: "Based on the received feedback, we are working on a revised version of our prototype that will be tested on a larger population, using the help of the network of the Future of Health Grant."
-        image: assets/img/timeline/next_pilot_study_2.jpg
+
+      - title: "Winner Business Concept Training"
+        year: "June 2022"
+        desc: "The idea of HappyGrandy was born during the [Business Concept Training](https://www.science2market.ch/) organized by Innosuisse in Neuchâtel, Switzerland. We went home with both the prize for the best team and the public prize!"
+        image: assets/img/timeline/202206_business_concept.jpg
+        alt:
+
       # - title: "Title"
       #   year: "2009-2011"
       #   desc: "Your description here, **Markdown** is fully supported."
