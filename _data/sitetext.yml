@@ -48,9 +48,14 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Pilot study 2"
-        year: "Coming soon"
-        desc: "Based on the received feedback, we are working on a revised version of our prototype that will be tested on a larger population, using the help of the network of the Future of Health Grant."
+      # - title: "Pilot study 2"
+      #   year: "Coming soon"
+      #   desc: "Based on the received feedback, we are working on a revised version of our prototype that will be tested on a larger population, using the help of the network of the Future of Health Grant."
+      #   image: assets/img/timeline/next_pilot_study_2.jpg
+        
+      - title: "Focus group with elderly"
+        year: "August 2023"
+        desc: "We organized a focus group with to get insights in their current pain points in terms of traditional physiotherapy, discuss potential solutions and brainstorm how HappyGrandy can help them."
         image: assets/img/timeline/next_pilot_study_2.jpg
 
       - title: "Pilot study 1"
