@@ -18,13 +18,13 @@ en: &DEFAULT_EN
 
   services:
     title: "Concept"
-    text: "HappyGrandy delivers an all-in-one solution for elderly to improve social interaction and provide direct access to health caregivers"
+    text: "HappyGrandy delivers an all-in-one solution for elderly to improve their daily physical activity with professional advice from physiotherapists"
     section: services
     list:
       - title: "Elderly"
-        desc: "Upgrade their existing TV to enable video-calling on a big screen from their couch, with a hassle-free user interface."
+        desc: "Upgrade their existing TV to enable remote physiotherapy on a big screen from their couch, with a hassle-free user interface."
         icon: fas fa-user #find more at https://fontawesome.com/icons
-      - title: "Health caregivers"
+      - title: "Physiotherapists"
         desc: "In direct contact with elderly, providing more efficient access to a larger segment of the elderly population."
         icon: fas fa-medkit
       - title: "AI coach"
